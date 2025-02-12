@@ -1,4 +1,6 @@
-def print200():
-    print(200)
 
-print200()
+def func():
+    print("hello world")
+
+def f():
+    print("good buy")
